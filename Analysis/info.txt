@@ -1,0 +1,3 @@
+this folder should contain anything you want (as long it's relevant to the project).
+here all the messy and unstructured exploration can be done without fitting the model
+into the template structure. beware that in the future steps you should fit your code into functional or object oriented structure.

@@ -1,0 +1,3 @@
+this folder should contain all the custom/external libraries that are not
+officialy distributted and thus can not be installed through pip directly to
+the 'site-packages' folder in 'venv'

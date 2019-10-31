@@ -1,0 +1,2 @@
+this folder should contain the jobs (scripts of data acquisition) to be called inside of the model pipeline.
+applies when the model takes no '.csv'-like inputation.

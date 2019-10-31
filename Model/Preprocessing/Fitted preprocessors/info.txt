@@ -1,0 +1,2 @@
+this folder should contain the fitted instances of the preprocessor class (or at least function),
+analogous to the trained model binearies in the 'Trained models' folder.

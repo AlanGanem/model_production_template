@@ -1,0 +1,2 @@
+this folder should contain the classes (or at least functions) of the model architecture (untrained)
+its recommended to implement the fit/predict sklearn API

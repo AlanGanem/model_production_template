@@ -1,0 +1,7 @@
+This folder should contain files to process the outputs of trained models and calculate the validation metrics.
+
+it's also highly recommended to write the code based on functional programming
+
+recomended input types to script: .csv, .xls, .json
+
+recomended output types from script: .csv, .xls, .json 

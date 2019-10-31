@@ -1,0 +1,4 @@
+This folder should contain the binaries of the trained models.
+
+It's highly recommended to name the models after it's architecture name and it's version (i.e. the date it's been trained),
+in order to keep track of the models versions.
